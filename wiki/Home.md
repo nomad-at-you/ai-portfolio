@@ -1,1 +1,4 @@
-Welcome to the ai-portfolio wiki!
+Welcome to my ai-portfolio wiki!
+
+## Important links:
+- [AI Engineer Roadmap](https://roadmap.sh/ai-engineer)
